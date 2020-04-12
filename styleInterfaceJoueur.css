@@ -1,0 +1,50 @@
+body{
+    background-image: url("images/img-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cadre{
+    margin: auto;
+    background-color: white;
+    width: 90%;
+    height: 900px;
+    margin-top: -1%;
+}
+.headerCadre{
+    width: 100%;
+    height: 15%;
+    background-color: #51bfd0;
+}
+.avatar{
+    float: left;
+}
+p{
+    font-weight: bolder;
+    color: white;
+}
+.titre{
+    text-align: center;
+    color: white;
+}
+h3{
+    line-height: 50px;
+    font-size: 26px;
+    font-weight: bolder;
+}
+.deconnexion{
+
+}
+button{
+    background-color:#00BCD4 ;
+    float: right;
+    margin-top: -10%;
+    padding: 1%;
+    font-size: 15px;
+    margin-right: 20px;
+    border: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}

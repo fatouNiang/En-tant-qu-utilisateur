@@ -1,0 +1,32 @@
+    [
+        {
+            "nom":"FATOU",
+            "prenom":"NIANG",
+            "login":"fatima", 
+            "password":"root",
+            "role":"admin"
+        },
+        {
+            "nom":"Aly", 
+            "prenom":"niang",
+            "login":"aly", 
+            "password":"root", 
+            "role":"admin"
+        },
+        {
+            "nom":"Ndiaye", 
+            "prenom":"Maguette",
+            "login":"magui", 
+            "password":"root", 
+            "image": "Images/profil1.jpeg",
+            "role":"joueur"
+        },
+        {
+            "nom":"Thiam", 
+            "prenom":"Aicha",
+            "login":"aicha", 
+            "password":"root",
+            "image": "Images/profil2.jpeg", 
+            "role":"joueur"
+        }
+    ]
